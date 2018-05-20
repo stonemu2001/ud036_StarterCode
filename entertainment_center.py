@@ -1,5 +1,5 @@
 import media
-
+#create Movies List
 movie1=media.Movie("Suicide Squad 2",
 	"The story of two miserable and unpleasant wedding guests,Lindsay and Frank, who develop a mutual affection despite themselves",
 	"https://i.ytimg.com/vi/RqIPdMUDPwg/maxresdefault.jpg", "https://youtu.be/CmRih_VtVAs")
